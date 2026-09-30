@@ -5,7 +5,7 @@ Reproducing and improving "2020 Summer Olympics Predictions Using Machine Learni
 Predict how many medals each country wins at a Summer Olympics using a two-step model:
 a classifier (will the country win any medal?) followed by a regressor (how many?).
 
-TEAM MEMBERS:
+**TEAM MEMBERS:**  
 **RHEA SUSHANTH PES1UG24CS371**  
 **SAMPADA KRISHNA PES1UG24CS415**
 
