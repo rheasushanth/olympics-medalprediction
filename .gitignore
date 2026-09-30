@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+
+# Raw data is large: each person downloads it themselves (see data/raw/README.md)
+data/raw/*
+!data/raw/README.md
+!data/raw/.gitkeep
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
