@@ -1,0 +1,7 @@
+Regressor,RMSE before,RMSE after,Combined after
+Linear,2.839,2.839,27.464
+Ridge,2.781,3.035,30.711
+Lasso,2.742,2.697,22.777
+Poisson,3.537,3.899,64.166
+SVR,2.712,2.715,28.206
+RandomForest,2.51,2.501,21.096
