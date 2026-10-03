@@ -1,0 +1,17 @@
+Model,Target,Host,RMSE_2012,Combined_2012,RMSE_2016,Combined_2016
+Ridge,change,True,2.552,19.941,3.353,35.976
+Ridge,raw,True,2.668,21.162,3.417,34.942
+GradBoost,raw,False,2.577,21.823,3.099,35.28
+GradBoost,raw,True,2.572,21.906,2.988,30.813
+RandomForest,raw,True,2.549,22.151,3.159,39.709
+RandomForest,raw,False,2.572,22.793,3.1,37.612
+Ridge,change,False,2.727,24.27,3.213,35.479
+Ridge,raw,False,2.836,25.446,3.269,34.328
+Linear,change,True,2.793,26.033,3.159,33.943
+Linear,raw,True,2.793,26.033,3.159,33.943
+RandomForest,change,True,2.912,29.407,3.495,52.32
+Linear,raw,False,2.979,30.428,3.059,34.171
+Linear,change,False,2.979,30.428,3.059,34.171
+RandomForest,change,False,2.966,31.521,3.388,49.336
+GradBoost,change,True,3.095,37.525,3.353,46.721
+GradBoost,change,False,3.251,43.525,3.23,44.306
