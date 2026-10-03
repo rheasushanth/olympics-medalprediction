@@ -1,0 +1,6 @@
+Classifier,Accuracy before,Accuracy after,Missed medalists,False alarms
+LogisticRegression,0.883,0.883,16,7
+SVC,0.873,0.878,16,8
+GaussianNB,0.883,0.883,16,7
+MLP,0.741,0.868,10,16
+RandomForest,0.873,0.873,14,11

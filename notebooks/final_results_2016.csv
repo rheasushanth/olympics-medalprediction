@@ -1,0 +1,4 @@
+Model,RMSE 2016,Combined
+Baseline linear regression,3.084,34.326
+Paper's pair (GaussianNB + Ridge),3.478,38.374
+Our chosen pair (LogisticRegression + RandomForest),3.269,42.696
