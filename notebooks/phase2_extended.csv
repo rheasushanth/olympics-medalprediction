@@ -1,0 +1,6 @@
+,original,original,original,original,original,extended,extended,extended,extended,extended
+,2004,2008,2012,2016,Mean 2008-2016,2004,2008,2012,2016,Mean 2008-2016
+Baseline linear,4.654,3.841,2.979,3.059,3.293,2.751,3.87,2.918,3.439,3.409
+GradBoost + host,2.592,4.009,2.572,2.988,3.19,2.75,2.74,2.847,3.241,2.943
+RandomForest + host,2.87,3.651,2.549,3.159,3.12,2.743,2.977,2.353,3.218,2.849
+Ensemble GB + RF + Ridge + host,2.664,3.633,2.396,3.029,3.019,2.531,2.781,2.351,3.145,2.759

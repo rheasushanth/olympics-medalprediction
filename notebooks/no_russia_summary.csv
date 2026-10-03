@@ -1,0 +1,8 @@
+Comparison,RMSE
+"2012 paper best (RF, Table 3)",2.2
+2012 paper final (reported as 2016),2.26
+2012 ours with Russia,2.3
+2012 ours without Russia,1.928
+2016 paper baseline,3.25
+2016 ours with Russia,2.984
+2016 ours without Russia,2.987

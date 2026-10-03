@@ -1,0 +1,4 @@
+Model,RMSE
+Paper: final model as reported,2.26
+"Paper: chosen pair, our data",2.785
+Ours: final model,1.403

@@ -1,0 +1,21 @@
+Clues,Model,2004,2008,2012,2016,Choose on (mean 2004+2008)
++ entry-list clues,Ensemble GB+RF+Ridge,2.637,3.27,1.928,2.987,2.953
++ entry-list clues,Ridge,2.878,3.141,2.317,3.339,3.009
++ entry-list clues,GradBoost,2.697,3.398,2.174,2.993,3.048
++ entry-list + returning medalists,Ridge,2.895,3.229,2.255,3.172,3.062
++ entry-list + returning medalists,Ensemble GB+RF+Ridge,2.685,3.5,1.929,2.987,3.092
++ entry-list clues,Ensemble GB+RF,2.704,3.49,2.086,2.961,3.097
+Paper's clues + host,Ensemble GB+RF+Ridge,2.604,3.678,2.152,2.906,3.141
+Paper's clues,Ensemble GB+RF+Ridge,2.589,3.698,2.214,2.855,3.143
+Paper's clues,Ridge,2.767,3.528,2.533,3.125,3.148
++ entry-list + returning medalists,GradBoost,2.673,3.666,2.197,3.077,3.169
+Paper's clues + host,Ridge,2.896,3.472,2.307,3.271,3.184
++ entry-list clues,RandomForest,2.776,3.641,2.093,2.991,3.209
++ entry-list + returning medalists,Ensemble GB+RF,2.721,3.758,2.077,3.019,3.239
+Paper's clues + host,Ensemble GB+RF,2.633,3.88,2.363,2.885,3.256
+Paper's clues + host,GradBoost,2.741,3.773,2.504,2.876,3.257
+Paper's clues,Ensemble GB+RF,2.654,3.885,2.363,2.855,3.269
+Paper's clues,GradBoost,2.722,3.861,2.554,2.832,3.291
+Paper's clues + host,RandomForest,2.574,4.023,2.291,2.946,3.299
+Paper's clues,RandomForest,2.644,3.964,2.275,2.936,3.304
++ entry-list + returning medalists,RandomForest,2.805,3.889,2.061,3.013,3.347
